@@ -7,9 +7,10 @@ website:
   navbar:
     right:
       - about.qmd
+        contact.qmd
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
 
 
