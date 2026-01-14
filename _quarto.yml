@@ -7,7 +7,7 @@ website:
   navbar:
     right:
       - about.qmd
-        contact.qmd
+      - contact.qmd
 format:
   html:
     theme: pulse
