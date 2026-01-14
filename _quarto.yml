@@ -10,7 +10,7 @@ website:
       - contact.qmd
 format:
   html:
-    theme: pulse
+    theme: flatly
     css: styles.css
 
 
