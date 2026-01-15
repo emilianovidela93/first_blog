@@ -7,6 +7,8 @@ categories: [news]
 
 Welcome to my blog. My name is Emiliano Ariel Videla Rodriguez. I am originally from Argentina but I am currently living in Edinburgh, Scotland. 
 
+![](EAVR.jpg){fig-align="center"}
+
 I did the equivalent of an integrated master program back in my home country, from 2011 to 2016.  "Undergraduate" degrees in Argentina are called licenciaturas and they usually last for 5 years, finishing with a research project carried out during the last year. My degree was in biological sciences covering hard sciences such as mathematics, statistics, physics and chemistry during the first year and half, moving on to specific subjects such as cell biology, plant and animal morphology, physiology, and diversity, genetics, microbiology, and ecology and environmental sciences. During the fourth and fifth year, subjects are elective and I mostly focused on biotechnology and genetics. 
 
 Once I finished my degree, I went straight into a PhD program in biological sciences. The focus of my research was on poultry science, studying the effects of common environmental factors associated with poultry industry, such as chronic heat stress, dietary supplementation with a natural alternative to antibiotics, and immune challenges, and how these factors affect the interplay between the immune, endocrine, and nervuous systems. I used quail as my animal model for chickens, due to their size and their reproductive cycle, allowing me to work with a relative large number of birds and following them throughout different life stages: eggs, chicks, and adults. Although my main work was done at the facilities and in the lab, I started my journey in statistics and programming. The experiments I carried out were quite complex, and the knowledge I had at that time did not allow me to properly analyse my data. I started with a basic diploma in R and RStudio, were I familiarised myself with the programming language, learning how to import data, visualise them, and run some simply statistical models. Thereafter, I took additional courses in advanced statistics in R, learning ecological and evolutionary models as well as machine learning. 
@@ -19,6 +21,6 @@ Once I defended both of my theses, the first one in 2021, and the second one in 
 
 After
 
-![](EAVR.jpg)
+
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
